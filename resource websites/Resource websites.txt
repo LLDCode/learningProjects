@@ -1,0 +1,11 @@
+references
+- https://frontendmasters.github.io/bootcamp/css#references 
+
+good css tricks and tips
+- https://css-tricks.com/
+
+notes for borders
+- https://frontendmasters.github.io/bootcamp/layout#box-model-properties-and-values
+
+notes on margin
+- https://frontendmasters.github.io/bootcamp/layout#margin

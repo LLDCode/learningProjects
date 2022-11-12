@@ -1,0 +1,27 @@
+/* second css stuf */ 
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+img {
+    border: 10px solid green;
+}
+
+h1 {
+    border: 10px dotted red;
+    line-height: 40rem;
+    background-image: url("http://placekitten.com/200/300");
+}
+
+blockquote {
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Verdana, sans-serif;
+    font-size: 2rem;
+    font-style: initial;
+    text-align: center;
+}
+
+.bigbold {
+    font-weight: 20;
+    font-size: 4rem;
+}
